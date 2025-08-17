@@ -1,24 +1,30 @@
 # Jerry’s Portfolio 🌐
 
-Welcome to the source code for my personal website: [https://jerrye.me](https://jerrye.me)
+Welcome to the source code for my personal website: [https://jerrye.me](https://jerrye.me)  
 
-## About
-This site showcases my work as a:
-- 💻 Software Engineer
-- 📸 Photographer
-- 🎬 Filmmaker
+## ✨ About
+This portfolio highlights my journey as a:
+- 💻 **Software Engineer** – building scalable and user-friendly applications  
+- 📸 **Photographer** – capturing timeless visuals through creative storytelling  
+- 🎬 **Filmmaker** – blending technology and art to bring ideas to life  
 
-## Tech
-- HTML, CSS (minimal starter)
-- Deployed with **GitHub Pages**
-- Custom domain with **GoDaddy** → **GitHub Pages**
+## 🛠️ Tech Stack
+- **React + Vite** for modern, fast, and interactive UI  
+- **Tailwind CSS** for clean, responsive styling  
+- **GitHub Pages** for deployment  
+- **GoDaddy** custom domain connected to GitHub Pages  
 
-## Future Plans
-- Add projects section (software + creative work)
-- Add gallery for photography & cinematography
-- Move to React / Vite for more interactivity
+## 🚀 Features
+- Responsive design for both desktop and mobile  
+- Highlighted projects with tech stacks and descriptions  
+- Integrated contact section for easy networking  
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/jerry-ehimuh)
-- [GitHub](https://github.com/jerryhxs)
-- 📧 jeehimuh@email.com
+## 📌 Future Plans
+- Expand project showcase with detailed case studies  
+- Add gallery for photography & cinematography work  
+- Enhance UI/UX with animations and transitions  
+
+## 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/jerry-ehimuh)  
+- [GitHub](https://github.com/jerryhxs)  
+- 📧 **jeehimuh@email.com**  
