@@ -1,0 +1,38 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "predeploy": "yarn build && mkdir -p out && touch out/.nojekyll",
+    "deploy": "gh-pages -d out"
+  },
+  "dependencies": {
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "autoprefixer": "10.4.14",
+    "clsx": "^1.2.1",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
+    "framer-motion": "^10.12.17",
+    "next": "^13.5.11",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.10.1",
+    "react-intersection-observer": "^9.5.2",
+    "react-vertical-timeline-component": "^3.6.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.5"
+  },
+  "devDependencies": {
+    "@types/react-vertical-timeline-component": "^3.3.3",
+    "gh-pages": "^6.3.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
