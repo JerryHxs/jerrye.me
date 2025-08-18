@@ -9,10 +9,11 @@ This portfolio highlights my journey as a:
 - 🎬 **Filmmaker** – blending technology and art to bring ideas to life  
 
 ## 🛠️ Tech Stack
-- **React + Vite** for modern, fast, and interactive UI  
-- **Tailwind CSS** for clean, responsive styling  
-- **GitHub Pages** for deployment  
-- **GoDaddy** custom domain connected to GitHub Pages  
+- **Next.js** (App Router) + React + TypeScript
+- **Tailwind CSS** for clean, responsive styling
+- **Framer Motion** for tasteful animations
+- **GitHub Pages** (deployed via GitHub Actions)
+- **GoDaddy** custom domain connected to GitHub Pages 
 
 ## 🚀 Features
 - Responsive design for both desktop and mobile  
