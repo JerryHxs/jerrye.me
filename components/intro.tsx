@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/pfp_logo.png"
+              src="/jerry.jpg"
               alt="Jerry portrait"
               width="192"
               height="192"
